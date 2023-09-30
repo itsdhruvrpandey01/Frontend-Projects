@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+}
+.contain{
+    margin: 3rem;
+    max-width: 240px;
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 0.5rem;
+}
+.btn{
+    width: 45px;
+    margin: 5px;
+}
+.input {
+    font-size: 1.5rem;
+    width: 230px;
+    height: 33px;
+    background-color: black;
+    color: white;
+    text-align: right;
+    border-radius: 0.5rem;
+    margin-top: 5px;
+    margin-bottom: 6px;
+    margin-left: 4px;
+    border-color: whitesmoke;
+}
+
+h3{
+    text-align: center;
+    color: antiquewhite;
+}
