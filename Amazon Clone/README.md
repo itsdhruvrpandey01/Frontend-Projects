@@ -19,8 +19,6 @@ To run the Amazon Clone:
 3. Explore the website and enjoy shopping!
 
 ## Screenshots
-![Amazon Clone Home Page](![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/321ba408-4d2d-48a3-b997-84a65a96079d)
-)
-![Amazon Clone Product Page](![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/96dfbfe1-0d1a-474a-991a-ddb3d42222a3)
-)
+![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/a67f832d-0193-47d1-9e74-63637f584fc8)
+![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/beb6a9a3-4ff1-4df7-bff4-671447c585f5)
 
