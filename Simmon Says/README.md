@@ -26,3 +26,6 @@ To run the Simon Says Game:
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in a web browser.
 3. Press any key to start the game and enjoy!
+
+#Demo 
+https://github.com/itsdhruvrpandey01/Projects/assets/130044341/fb7abee3-4dd9-4b9d-8311-43792ae31eb4
