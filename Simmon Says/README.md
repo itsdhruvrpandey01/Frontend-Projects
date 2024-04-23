@@ -29,5 +29,6 @@ To run the Simon Says Game:
 2. Open the `index.html` file in a web browser.
 3. Press any key to start the game and enjoy!
 
-#Demo 
+## Demo 
+
 ![Simon Says Game ](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/5cdc2cf5-a924-4651-aff1-7214da540a04)
