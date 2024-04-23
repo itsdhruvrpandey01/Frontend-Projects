@@ -20,5 +20,6 @@ To run the Amazon Clone:
 
 ## Screenshots
 ![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/a67f832d-0193-47d1-9e74-63637f584fc8)
-![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/beb6a9a3-4ff1-4df7-bff4-671447c585f5)
+![image](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/7f616f32-891a-4bf0-b821-6a0ccd31d696)
+
 
