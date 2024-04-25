@@ -31,5 +31,5 @@ This is a simple implementation of the classic Snake game using Html Css and Jav
 ## Demo 
 
 [
-![SnakeMania - Ek Gaming Katha - Google Chrome 2024-04-25 22-12-20 (1)](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/196f9ad4-72f0-4d4f-a7f9-f1bb9e5aa41b)
+![SnakeMania - Ek Gaming Katha - Google Chrome 2024-04-25 22-22-24](https://github.com/itsdhruvrpandey01/Projects/assets/130044341/26355997-4912-4ced-b46d-1beef2c5af3a)
 ](url)
