@@ -17,11 +17,6 @@ To use this Spotify web player clone, simply open the `index.html` file in a web
 - Featured playlists: Displays curated playlists for users to explore.
 - Music player panel: Includes controls for playing, pausing, and seeking tracks.
 
-## Installation
-
-1. Clone the repository: ```bash 
-git clone https://github.com/your/repository.git
-2. Open `index.html` in a web browser.
 
 ## Credits
 
