@@ -19,7 +19,8 @@ To use this Spotify web player clone, simply open the `index.html` file in a web
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: ```bash 
+git clone https://github.com/your/repository.git
 2. Open `index.html` in a web browser.
 
 ## Credits
